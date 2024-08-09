@@ -77,4 +77,4 @@ This project is created and maintained by [korhanh]([link_to_your_github_profile
 
 If you use this project or find it helpful, consider giving it a star on GitHub!
 
-Happy PDF page splitting! :rocket:
+Happy Working Hours Condition! :rocket:
